@@ -1,10 +1,10 @@
 # [level 0] 길이에 따른 연산 - 181879 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181879) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181879?language=swift) 
 
 ### 성능 요약
 
-메모리: 16.5 MB, 시간: 0.03 ms
+메모리: 16.2 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 01일 15:31:18
+2025년 06월 01일 15:33:47
 
 ### 문제 설명
 
